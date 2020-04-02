@@ -7,8 +7,8 @@ let name=''
 function App() {
   return (
     <div className="App">
-    <First />
-    <First />
+    <First name='Ringku' email='ringku.swe@gmail.com' />
+
 
     </div>
   );
